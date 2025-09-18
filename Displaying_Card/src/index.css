@@ -1,0 +1,24 @@
+.card{
+    border: 2px solid black;
+    width : 30vw;
+    text-align: center;
+    color: black;
+    background-color: antiquewhite;
+    margin-left: auto;
+    
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.body{
+    background-color: aquamarine;
+}
+
+.container{
+    margin-top: 10px;
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+    background-color: aquamarine;
+}

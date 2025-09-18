@@ -5,9 +5,11 @@ li{
     list-style-type: none;
 }
 ul{
-    gap: 34px;
+    gap: 50px;
 }
 nav{
     background-color: antiquewhite;
     padding: 24px;
+    text-align: center;
+    justify-content: center;
 }
